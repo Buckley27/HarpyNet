@@ -19,7 +19,7 @@
 
 ## 📖 О проекте
 
-**MBzeGuard** — это форк [Hiddify](https://github.com/hiddify/hiddify-app) с глубокой интеграцией [Remnawave](https://github.com/remnawave), созданный специально для русскоязычной аудитории и провайдеров VPN-услуг.
+**MBzeGuard** — Это для MBzeGuard VPN пользоваться чтобы было комфрот
 
 Переработанный интерфейс, русская локализация, умные уведомления и нативная поддержка HWID-аутентификации делают MBzeGuard идеальным выбором для провайдеров VPN-услуг и их клиентов.
 
@@ -65,55 +65,4 @@
 | 🪟 **Windows** | `MBzeGuard-Setup-*.exe` |
 | 🤖 **Android** | `MBzeGuard-*.apk` |
 
-> [!NOTE]
-> На Android может потребоваться разрешить установку из неизвестных источников.
 
-> [!NOTE]
-> На Windows установщик создаст системный сервис для TUN-режима. Требуются права администратора.
-
----
-
-## 🛠️ Сборка из исходников
-
-```bash
-# Клонировать репозиторий
-git clone https://github.com/Buckley27/MBzeGuard.git
-cd MBzeGuard
-
-# Установить зависимости
-flutter pub get
-
-# Сборка для Windows
-flutter build windows
-
-# Сборка для Android
-flutter build apk
-```
-
-> Убедись, что у тебя установлен [Flutter SDK](https://flutter.dev/docs/get-started/install).
-
----
-
-## 🤝 Участие в разработке
-
-Pull request'ы приветствуются! Для крупных изменений сначала открой issue для обсуждения.
-
-1. Форкни репозиторий
-2. Создай ветку (`git checkout -b feature/amazing-feature`)
-3. Закоммить изменения (`git commit -m 'Add amazing feature'`)
-4. Запушь ветку (`git push origin feature/amazing-feature`)
-5. Открой Pull Request
-
----
-
-## 📄 Лицензия
-
-Распространяется под лицензией **GPL-3.0**. Подробнее — в файле [LICENSE](LICENSE).
-
----
-
-<div align="center">
-
-Сделано с ❤️ на основе [Mihomo](https://github.com/MetaCubeX/mihomo) и [Hiddify](https://github.com/hiddify/hiddify-app)
-
-</div>
