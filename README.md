@@ -8,10 +8,10 @@
 
 *На основе [Mihomo (Clash.Meta)](https://github.com/MetaCubeX/mihomo)*
 
-[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Buckley27/MBzeGuard/releases)
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Buckley27/MBzeGuard/releases)
-[![GitHub Releases](https://img.shields.io/github/v/release/Buckley27/MBzeGuard?style=for-the-badge&color=blueviolet)](https://github.com/Buckley27/MBzeGuard/releases)
-[![License](https://img.shields.io/github/license/Buckley27/MBzeGuard?style=for-the-badge)](LICENSE)
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Buckley27/HarpyNet/releases)
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Buckley27/HarpyNet/releases)
+[![GitHub Releases](https://img.shields.io/github/v/release/Buckley27/HarpyNet?style=for-the-badge&color=blueviolet)](https://github.com/Buckley27/HarpyNet/releases)
+[![License](https://img.shields.io/github/license/Buckley27/HarpyNet?style=for-the-badge)](LICENSE)
 
 ---
 
@@ -19,9 +19,9 @@
 
 ## 📖 О проекте
 
-**MBzeGuard** — Это для HarpyNet VPN пользоваться чтобы было комфрот
+**HarpyNet** — Это для HarpyNet VPN пользоваться чтобы было комфрот
 
-Переработанный интерфейс, русская локализация, умные уведомления и нативная поддержка HWID-аутентификации делают MBzeGuard идеальным выбором для провайдеров VPN-услуг и их клиентов.
+Переработанный интерфейс, русская локализация, умные уведомления и нативная поддержка HWID-аутентификации делают HarpyNet идеальным выбором для провайдеров VPN-услуг и их клиентов.
 
 ---
 
