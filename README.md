@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Buckley27/HarpyNet/main/assets/logo.png" alt="HarpyNet Logo" width="120" height="120" />
 
-# MBzeGuard
+# HarpyNet
 
 **Современный прокси-клиент для Windows и Android**
 
