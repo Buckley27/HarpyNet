@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Buckley27/MBzeGuard/main/assets/logo.png" alt="MBzeGuard Logo" width="120" height="120" />
+<img src="https://raw.githubusercontent.com/Buckley27/HarpyNet/main/assets/logo.png" alt="HarpyNet Logo" width="120" height="120" />
 
 # MBzeGuard
 
@@ -19,7 +19,7 @@
 
 ## 📖 О проекте
 
-**MBzeGuard** — Это для MBzeGuard VPN пользоваться чтобы было комфрот
+**MBzeGuard** — Это для HarpyNet VPN пользоваться чтобы было комфрот
 
 Переработанный интерфейс, русская локализация, умные уведомления и нативная поддержка HWID-аутентификации делают MBzeGuard идеальным выбором для провайдеров VPN-услуг и их клиентов.
 
@@ -58,11 +58,11 @@
 
 ## 🚀 Установка
 
-Скачай готовую сборку со страницы **[Releases](https://github.com/Buckley27/MBzeGuard/releases)**:
+Скачай готовую сборку со страницы **[Releases](https://github.com/Buckley27/HarpyNet/releases)**:
 
 | Платформа | Файл |
 |---|---|
-| 🪟 **Windows** | `MBzeGuard-Setup-*.exe` |
-| 🤖 **Android** | `MBzeGuard-*.apk` |
+| 🪟 **Windows** | `HarpyNet-Setup-*.exe` |
+| 🤖 **Android** | `HarpyNet-*.apk` |
 
 
