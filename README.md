@@ -6,8 +6,6 @@
 
 **Современный прокси-клиент для Windows и Android**
 
-*На основе [Mihomo (Clash.Meta)](https://github.com/MetaCubeX/mihomo)*
-
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Buckley27/HarpyNet/releases)
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Buckley27/HarpyNet/releases)
 [![GitHub Releases](https://img.shields.io/github/v/release/Buckley27/HarpyNet?style=for-the-badge&color=blueviolet)](https://github.com/Buckley27/HarpyNet/releases)
